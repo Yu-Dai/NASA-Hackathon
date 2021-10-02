@@ -41,13 +41,16 @@ namespace NASA_Hackathon.Controllers
 
         public IActionResult Level3()
         {
-            return View();
+            return View(new Level3Model());
         }
 
         [HttpPost]
-        public IActionResult Level3(Level3Model model)
+        public IActionResult Level3(string base64image)
         {
-            Console.WriteLine("123");
+            //影像數組
+            string Base64String = base64image.Replace("data:image/jpeg;base64,", String.Empty);
+            byte[] imageBytes = Convert.FromBase64String(Base64String);
+                                   
             return View();
         }
 

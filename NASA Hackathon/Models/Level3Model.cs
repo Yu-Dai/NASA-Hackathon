@@ -7,6 +7,6 @@ namespace NASA_Hackathon.Models
 {
     public class Level3Model
     {
-        public byte[] imageBuffer { get; set; }
+        public string uri { get; set; }
     }
 }

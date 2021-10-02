@@ -32,6 +32,26 @@
         $("#btncapture").click(function () {
             Webcam.snap(function (data_uri) {
                 $("#idcaptured")[0].src = data_uri;
+
+                /*Webcam.upload(data_uri, '/Home/Level3', function (code, text) {
+                    alert("123")
+                });*/
+            });            
+        });
+
+        $("#btncalculate").click(function () {
+            var file = document.getElementById("idcaptured").src;
+
+            var formdata = new FormData();
+            formdata.append("base64image", file);
+
+            $.ajax({
+                url: "/Home/Level3",
+                type: "POST",
+
+                data: formdata,
+                processData: false,
+                contentType: false
             });
         });
     });
@@ -59,7 +79,7 @@
         </td>
         <td align="center">
             <br>
-            <input type="submit" id="btncalculate" name="btnSubmit" value="計算" class="btn btn-primary" />
+            <input type="submit" id="btncalculate" value="計算" class="btn btn-primary" />
         </td>
     </tr>
 </table>
