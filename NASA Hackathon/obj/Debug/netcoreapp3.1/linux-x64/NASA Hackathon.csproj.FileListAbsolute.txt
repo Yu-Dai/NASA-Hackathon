@@ -1,0 +1,37 @@
+C:\Users\YiSong\source\repos\NASA Hackathon\NASA Hackathon\bin\Debug\netcoreapp3.1\linux-x64\appsettings.Development.json
+C:\Users\YiSong\source\repos\NASA Hackathon\NASA Hackathon\bin\Debug\netcoreapp3.1\linux-x64\appsettings.json
+C:\Users\YiSong\source\repos\NASA Hackathon\NASA Hackathon\bin\Debug\netcoreapp3.1\linux-x64\NASA Hackathon
+C:\Users\YiSong\source\repos\NASA Hackathon\NASA Hackathon\bin\Debug\netcoreapp3.1\linux-x64\NASA Hackathon.deps.json
+C:\Users\YiSong\source\repos\NASA Hackathon\NASA Hackathon\bin\Debug\netcoreapp3.1\linux-x64\NASA Hackathon.runtimeconfig.json
+C:\Users\YiSong\source\repos\NASA Hackathon\NASA Hackathon\bin\Debug\netcoreapp3.1\linux-x64\NASA Hackathon.runtimeconfig.dev.json
+C:\Users\YiSong\source\repos\NASA Hackathon\NASA Hackathon\bin\Debug\netcoreapp3.1\linux-x64\NASA Hackathon.dll
+C:\Users\YiSong\source\repos\NASA Hackathon\NASA Hackathon\bin\Debug\netcoreapp3.1\linux-x64\NASA Hackathon.pdb
+C:\Users\YiSong\source\repos\NASA Hackathon\NASA Hackathon\bin\Debug\netcoreapp3.1\linux-x64\NASA Hackathon.Views.dll
+C:\Users\YiSong\source\repos\NASA Hackathon\NASA Hackathon\bin\Debug\netcoreapp3.1\linux-x64\NASA Hackathon.Views.pdb
+C:\Users\YiSong\source\repos\NASA Hackathon\NASA Hackathon\obj\Debug\netcoreapp3.1\linux-x64\NASA Hackathon.csprojAssemblyReference.cache
+C:\Users\YiSong\source\repos\NASA Hackathon\NASA Hackathon\obj\Debug\netcoreapp3.1\linux-x64\NASA Hackathon.AssemblyInfoInputs.cache
+C:\Users\YiSong\source\repos\NASA Hackathon\NASA Hackathon\obj\Debug\netcoreapp3.1\linux-x64\NASA Hackathon.AssemblyInfo.cs
+C:\Users\YiSong\source\repos\NASA Hackathon\NASA Hackathon\obj\Debug\netcoreapp3.1\linux-x64\NASA Hackathon.csproj.CoreCompileInputs.cache
+C:\Users\YiSong\source\repos\NASA Hackathon\NASA Hackathon\obj\Debug\netcoreapp3.1\linux-x64\NASA Hackathon.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\YiSong\source\repos\NASA Hackathon\NASA Hackathon\obj\Debug\netcoreapp3.1\linux-x64\NASA Hackathon.RazorAssemblyInfo.cache
+C:\Users\YiSong\source\repos\NASA Hackathon\NASA Hackathon\obj\Debug\netcoreapp3.1\linux-x64\NASA Hackathon.RazorAssemblyInfo.cs
+C:\Users\YiSong\source\repos\NASA Hackathon\NASA Hackathon\obj\Debug\netcoreapp3.1\linux-x64\staticwebassets\NASA Hackathon.StaticWebAssets.Manifest.cache
+C:\Users\YiSong\source\repos\NASA Hackathon\NASA Hackathon\obj\Debug\netcoreapp3.1\linux-x64\staticwebassets\NASA Hackathon.StaticWebAssets.xml
+C:\Users\YiSong\source\repos\NASA Hackathon\NASA Hackathon\obj\Debug\netcoreapp3.1\linux-x64\scopedcss\bundle\NASA Hackathon.styles.css
+C:\Users\YiSong\source\repos\NASA Hackathon\NASA Hackathon\obj\Debug\netcoreapp3.1\linux-x64\NASA Hackathon.TagHelpers.input.cache
+C:\Users\YiSong\source\repos\NASA Hackathon\NASA Hackathon\obj\Debug\netcoreapp3.1\linux-x64\NASA Hackathon.TagHelpers.output.cache
+C:\Users\YiSong\source\repos\NASA Hackathon\NASA Hackathon\obj\Debug\netcoreapp3.1\linux-x64\NASA Hackathon.RazorCoreGenerate.cache
+C:\Users\YiSong\source\repos\NASA Hackathon\NASA Hackathon\obj\Debug\netcoreapp3.1\linux-x64\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\YiSong\source\repos\NASA Hackathon\NASA Hackathon\obj\Debug\netcoreapp3.1\linux-x64\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\YiSong\source\repos\NASA Hackathon\NASA Hackathon\obj\Debug\netcoreapp3.1\linux-x64\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\YiSong\source\repos\NASA Hackathon\NASA Hackathon\obj\Debug\netcoreapp3.1\linux-x64\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\YiSong\source\repos\NASA Hackathon\NASA Hackathon\obj\Debug\netcoreapp3.1\linux-x64\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\YiSong\source\repos\NASA Hackathon\NASA Hackathon\obj\Debug\netcoreapp3.1\linux-x64\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\YiSong\source\repos\NASA Hackathon\NASA Hackathon\obj\Debug\netcoreapp3.1\linux-x64\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\YiSong\source\repos\NASA Hackathon\NASA Hackathon\obj\Debug\netcoreapp3.1\linux-x64\NASA Hackathon.RazorTargetAssemblyInfo.cache
+C:\Users\YiSong\source\repos\NASA Hackathon\NASA Hackathon\obj\Debug\netcoreapp3.1\linux-x64\NASA Hackathon.RazorTargetAssemblyInfo.cs
+C:\Users\YiSong\source\repos\NASA Hackathon\NASA Hackathon\obj\Debug\netcoreapp3.1\linux-x64\NASA Hackathon.Views.pdb
+C:\Users\YiSong\source\repos\NASA Hackathon\NASA Hackathon\obj\Debug\netcoreapp3.1\linux-x64\NASA Hackathon.dll
+C:\Users\YiSong\source\repos\NASA Hackathon\NASA Hackathon\obj\Debug\netcoreapp3.1\linux-x64\NASA Hackathon.pdb
+C:\Users\YiSong\source\repos\NASA Hackathon\NASA Hackathon\obj\Debug\netcoreapp3.1\linux-x64\NASA Hackathon.genruntimeconfig.cache
+C:\Users\YiSong\source\repos\NASA Hackathon\NASA Hackathon\obj\Debug\netcoreapp3.1\linux-x64\NASA Hackathon.csproj.CopyComplete

@@ -1,0 +1,17 @@
+{
+  "region": "ap-northeast-1",
+  "configuration": "Debug",
+  "framework": "netcoreapp3.1",
+  "self-contained": false,
+  "application": "NASAHackathon",
+  "environment": "NASAHackathon",
+  "enable-xray": false,
+  "enhanced-health-type": "basic",
+  "additional-options": "",
+  "proxy-server": "nginx",
+  "profile": "default",
+  "solution-stack": "64bit Windows Server 2016 v2.7.0 running IIS 10.0",
+  "iis-website": "Default Web Site",
+  "app-path": "/",
+  "health-check-url": "/"
+}
