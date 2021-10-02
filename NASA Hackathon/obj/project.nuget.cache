@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "2POjMYLJYfT99QYri5MzpFHMKOXSFqdCC706UtP2PCghaUaBYxm4mhGOJs0xjijglgzy5phqcwm562L62yUCFQ==",
+  "dgSpecHash": "5vP5XGveC/R2eY8pdRVVD1ae33u9tpjR4+abwP3xfN6TEAh7ME2F7YzwG4/1kKb4qq7s9DLNNIaBOk/K0fRn6g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\YiSong\\source\\repos\\NASA Hackathon\\NASA Hackathon\\NASA Hackathon.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\程式與GITHUB\\NASA-Hackathon\\NASA Hackathon\\NASA Hackathon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yuchi\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\yuchi\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\yuchi\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512"
+  ],
   "logs": []
 }
