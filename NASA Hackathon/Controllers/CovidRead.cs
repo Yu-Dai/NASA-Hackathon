@@ -262,13 +262,17 @@ namespace NASA_Hackathon.Controllers
         }
         public Antibody(Bitmap paperImage, int lag, double threshold, double influence) : base(paperImage, lag, threshold, influence)
         {
+            if (this.peakIntensity.Count >= 2)
+                CacularAntibodyNumber((CaculateConcentration(this.peakIntensity[1])) / 200);
         }
         public Antibody(Bitmap paperImage) : base(paperImage)
         {
+            if (this.peakIntensity.Count >= 2)
+                CacularAntibodyNumber((CaculateConcentration(this.peakIntensity[1])) / 200);
         }
-        private void CacularAntibodyNumber()
+        private void CacularAntibodyNumber(double concentration)
         {
-
+            this.antibodyNumber = GMT.Convert_GMT_to_Efficacy(concentration);
         }
         public double RiskCaculate()
         {
